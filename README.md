@@ -48,13 +48,13 @@ Chose one portfolio, then calculated and plotted the 60-day rolling beta between
 # Rolling Statistics Challenge: Exponentially Weighted Average
 Showed an alternative method to calculate a rolling window to find the exponentially weighted moving average. This is like a moving window average, but it assigns greater importance to more recent observations. 
 
-#Sharpe Ratios
+# Sharpe Ratios
 
 Using the daily returns, calculated the Sharpe ratios and visualized them in a bar plot.
 
 Determined whether the algorithmic strategies outperformed both the market (S&P 500) and the whales portfolios.
 
-#Created a Custom Portfolio
+# Created a Custom Portfolio
 
 Used Google Sheets Links to an external site.and its built-in GOOGLEFINANCE function to choose 5 stocks for 'My Portfolio'.
 
@@ -67,9 +67,13 @@ Calculated the weighted returns for portfolio, assuming equal number of shares p
 # Ran the following analyses:
 
 Calculated the annualized standard deviation.
+
 Calculated and plotted the rolling standard deviation with a 21-day window.
+
 Calculated and plotted the correlation.
+
 Calculated and plotted beta for your portfolio compared to the S&P 60 TSX.
+
 Calculated the Sharpe ratios and generated a bar plot.
 
 All to answer how my custom portfolio performed relative to others. 
