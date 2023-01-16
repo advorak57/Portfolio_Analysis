@@ -32,7 +32,7 @@ Calculated and plotted cumulative returns for all portfolios. Determined portfol
 # Risk Analysis
 Created a box plot for each of the returns.
 
-Calculatee the standard deviation for each portfolio.
+Calculated the standard deviation for each portfolio.
 
 Determined which portfolios are riskier than the S&P 500.
 
