@@ -1,4 +1,4 @@
-# Quantitative_Analysis
+# Portfolio_Analysis
 Performed data cleaning and caluculations on provided portfolio data for whale and algorithmic portfolios to determine performance, risk, and volatility. 
 # Tasks
  - Prepared the Data
